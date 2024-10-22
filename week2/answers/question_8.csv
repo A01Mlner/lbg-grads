@@ -1,0 +1,11 @@
+film_id,title,description,release_year,language_id,original_language_id,rental_duration,rental_rate,length,replacement_cost,rating,special_features,last_update
+15,"ALIEN CENTER","A Brilliant Drama of a Cat And a Mad Scientist who must Battle a Feminist in A MySQL Convention",2006,1,NULL,5,2.99,46,10.99,NC-17,"Trailers,Commentaries,Behind the Scenes","2006-02-15 05:03:42"
+504,"KWAI HOMEWARD","A Amazing Drama of a Car And a Squirrel who must Pursue a Car in Soviet Georgia",2006,1,NULL,5,0.99,46,25.99,PG-13,"Trailers,Commentaries","2006-02-15 05:03:42"
+469,"IRON MOON","A Fast-Paced Documentary of a Mad Cow And a Boy who must Pursue a Dentist in A Baloon",2006,1,NULL,7,4.99,46,27.99,PG,"Commentaries,Behind the Scenes","2006-02-15 05:03:42"
+730,"RIDGEMONT SUBMARINE","A Unbelieveable Drama of a Waitress And a Composer who must Sink a Mad Cow in Ancient Japan",2006,1,NULL,3,0.99,46,28.99,PG-13,"Commentaries,Deleted Scenes,Behind the Scenes","2006-02-15 05:03:42"
+505,"LABYRINTH LEAGUE","A Awe-Inspiring Saga of a Composer And a Frisbee who must Succumb a Pioneer in The Sahara Desert",2006,1,NULL,6,2.99,46,24.99,PG-13,"Commentaries,Behind the Scenes","2006-02-15 05:03:42"
+869,"SUSPECTS QUILLS","A Emotional Epistle of a Pioneer And a Crocodile who must Battle a Man in A Manhattan Penthouse",2006,1,NULL,4,2.99,47,22.99,PG,Trailers,"2006-02-15 05:03:42"
+398,"HANOVER GALAXY","A Stunning Reflection of a Girl And a Secret Agent who must Succumb a Boy in A MySQL Convention",2006,1,NULL,5,4.99,47,21.99,NC-17,"Commentaries,Deleted Scenes,Behind the Scenes","2006-02-15 05:03:42"
+407,"HAWK CHILL","A Action-Packed Drama of a Mad Scientist And a Composer who must Outgun a Car in Australia",2006,1,NULL,5,0.99,47,12.99,PG-13,"Behind the Scenes","2006-02-15 05:03:42"
+247,"DOWNHILL ENOUGH","A Emotional Tale of a Pastry Chef And a Forensic Psychologist who must Succumb a Monkey in The Sahara Desert",2006,1,NULL,3,0.99,47,19.99,G,"Trailers,Commentaries,Deleted Scenes","2006-02-15 05:03:42"
+393,"HALLOWEEN NUTS","A Amazing Panorama of a Forensic Psychologist And a Technical Writer who must Fight a Dentist in A U-Boat",2006,1,NULL,6,2.99,47,19.99,PG-13,"Deleted Scenes","2006-02-15 05:03:42"
